@@ -3,3 +3,4 @@ __pycache__
 v_django
 db.sqlite3
 .DS_Store
+.vscode
